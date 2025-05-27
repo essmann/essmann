@@ -14,5 +14,3 @@
 
 </div>
 
-![image](https://github.com/user-attachments/assets/94b32372-a2b3-4574-9d34-3ca86965d41e)
-
